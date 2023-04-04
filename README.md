@@ -4,7 +4,7 @@ project analisa software requirement pelanggan
 ## Setup Environment
 
 1. Clone Git Repo ini
-   `git clone https://github.com/mulqi/restaurant-backEnd`
+   `git clone https://github.com/AriqFaridzki/SE-UTS-2023.git`
 
 2. inisialisasi NPM
    `npm install`
