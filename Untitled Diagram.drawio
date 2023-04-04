@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T14:48:07.773Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="U5qLGDK0Zdk9a4daWXo2" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T14:49:05.409Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="k5i6lBWHvWz4PFn-ZYzW" version="21.1.1" type="github">
   <diagram name="Page-1" id="xjvxwk_3kaTPLV7VPJxn">
     <mxGraphModel dx="2118" dy="2866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -84,8 +84,7 @@
         <mxCell id="IXw6Qi-PNi6ADlv29cn4-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IXw6Qi-PNi6ADlv29cn4-24" target="IXw6Qi-PNi6ADlv29cn4-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="228" y="1336" />
-              <mxPoint x="30" y="1336" />
+              <mxPoint x="30" y="1725" />
               <mxPoint x="30" y="-150" />
               <mxPoint x="268" y="-150" />
               <mxPoint x="268" y="-469" />
@@ -115,7 +114,7 @@
           <mxGeometry x="880" y="-610" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IXw6Qi-PNi6ADlv29cn4-28" value="&amp;nbsp;Memperbaharui&amp;nbsp;/ hapus Informasi Stok Bahan Baku Barang" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="730" y="1260" width="210" height="140" as="geometry" />
+          <mxGeometry x="780" y="1230" width="210" height="140" as="geometry" />
         </mxCell>
         <mxCell id="IXw6Qi-PNi6ADlv29cn4-29" value="Memperbaharui / hapus Informasi Supplier&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1190" y="770" width="210" height="140" as="geometry" />
@@ -136,7 +135,7 @@
           <mxGeometry x="575" y="414" width="250" height="140" as="geometry" />
         </mxCell>
         <mxCell id="IXw6Qi-PNi6ADlv29cn4-50" value="Melihat&lt;br&gt;Informasi Bahan Baku&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="650" y="1510" width="210" height="140" as="geometry" />
+          <mxGeometry x="595" y="1390" width="210" height="140" as="geometry" />
         </mxCell>
         <mxCell id="IXw6Qi-PNi6ADlv29cn4-79" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IXw6Qi-PNi6ADlv29cn4-56" target="IXw6Qi-PNi6ADlv29cn4-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -175,9 +174,6 @@
         </mxCell>
         <mxCell id="IXw6Qi-PNi6ADlv29cn4-80" value="Log out" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="690" y="-360" width="160" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="ZU9HFq3ehsjZUplSAfVW-3" value="Memesan&lt;br&gt;Bahan Baku&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="650" y="1770" width="210" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ZU9HFq3ehsjZUplSAfVW-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.11;exitY=0.353;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IXw6Qi-PNi6ADlv29cn4-56" target="IXw6Qi-PNi6ADlv29cn4-13">
           <mxGeometry relative="1" as="geometry">
