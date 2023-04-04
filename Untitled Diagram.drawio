@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T10:12:35.029Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="JC83R2uO6tgulkvH5W8-" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T10:26:53.391Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="2Mp8THYKPyOwFoImd0tF" version="21.1.1" type="github">
   <diagram name="Page-1" id="xjvxwk_3kaTPLV7VPJxn">
     <mxGraphModel dx="1967" dy="1953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -11,28 +11,40 @@
           <mxGeometry x="520" y="-30" width="840" height="1170" as="geometry" />
         </mxCell>
         <mxCell id="IXw6Qi-PNi6ADlv29cn4-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Bagian Penjualan&lt;br&gt;Sistem dapat melakukan mengelola pesanan&amp;nbsp;&lt;br&gt;sistem dapat menyediakan pembuatan nota&amp;nbsp;&lt;br&gt;sistem dapat memfasilitasi pengembalian barang&lt;br&gt;sistem dapat menampilkan komplain pembeli&lt;br&gt;&lt;br&gt;&lt;br&gt;➢Bagian Gudang&lt;br&gt;sistem dapat menampilkan inforamsi stok barang tas kulit masuk ( dari produksi )&lt;br&gt;sistem dapat menampilkan inforamsi stok barang tas kulit keluar ( dari penjualan )&lt;br&gt;&lt;br&gt;&lt;br&gt;sistem dapat menambah informasi stok barang tas kulit&lt;br&gt;sistem dapat mengurangi informasi stok barang tas kulit&lt;br&gt;sistem dapat mengubah informasi stok barang tas kulit&lt;br&gt;sistem dapat menghapus informasi stok barang tas kulit&lt;br&gt;&lt;br&gt;&lt;br&gt;sistem dapat menampilkan inforamsi bahan baku tas kulit masuk&lt;br&gt;sistem dapat menampilkan inforamsi bahan baku tas kulit keluar&lt;br&gt;&lt;br&gt;&lt;br&gt;sistem dapat menambah informasi bahan baku&lt;br&gt;sistem dapat mengurangi informasi bahan baku&lt;br&gt;sistem dapat mengubah informasi bahan baku&lt;br&gt;sistem dapat menghapus informasi bahan baku&lt;br&gt;&lt;br&gt;&lt;br&gt;sistem dapat menampilkan data supplier&lt;br&gt;sistem dapat menambah informasi data supplier&lt;br&gt;sistem dapat mengurangi informasi data supplier&lt;br&gt;sistem dapat mengubah informasi data supplier&lt;br&gt;sistem dapat menghapus informasi data supplier&lt;br&gt;&lt;br&gt;&lt;br&gt;sistem memfasilitasi fitur login&lt;br&gt;sistem memfasilitasi fitur registerasi ( oleh admin saja )&lt;br&gt;sistem memfasilitasi fitur logout&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="-50" width="510" height="640" as="geometry" />
+          <mxGeometry x="1520" y="400" width="510" height="640" as="geometry" />
         </mxCell>
-        <mxCell id="IXw6Qi-PNi6ADlv29cn4-13" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="20" width="120" height="80" as="geometry" />
+        <mxCell id="IXw6Qi-PNi6ADlv29cn4-13" value="Login" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="584" y="85" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="IXw6Qi-PNi6ADlv29cn4-14" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="334" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="IXw6Qi-PNi6ADlv29cn4-15" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="480" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="IXw6Qi-PNi6ADlv29cn4-16" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="190" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="IXw6Qi-PNi6ADlv29cn4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IXw6Qi-PNi6ADlv29cn4-15" target="IXw6Qi-PNi6ADlv29cn4-15">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="IXw6Qi-PNi6ADlv29cn4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="780" as="sourcePoint" />
+            <mxPoint x="800" y="780" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IXw6Qi-PNi6ADlv29cn4-23" value="Staff Penjualan" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="220" y="40" width="95" height="190" as="geometry" />
+          <mxGeometry x="210" y="160" width="95" height="190" as="geometry" />
         </mxCell>
         <mxCell id="IXw6Qi-PNi6ADlv29cn4-24" value="Staff Produksi Barang" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=27;" vertex="1" parent="1">
           <mxGeometry x="210" y="780" width="95" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="IXw6Qi-PNi6ADlv29cn4-25" value="Menambah / Update informasi Stok Barang" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="830" y="170" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="IXw6Qi-PNi6ADlv29cn4-26" value="➢ Bagian Penjualan&#xa;Bagian penjualan bertugas mengatur pesanan pembeli, pembuatan nota pembeli, meretur barang dan komplain dari pelanggan.&#xa;&#xa;&#xa;meretur barang dari pelanggan&#xa;&#xa;&#xa;➢Bagian Gudang&#xa;Bagian gudang mengatur bagian stok barang, mengatur bahan baku produksi,menerima supplay dari para supplayer.&#xa;&#xa;&#xa;➢ Bagian Produksi&#xa;Bagian produksi bertugas untuk memproduksi barang." style="text;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="20" width="1040" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="IXw6Qi-PNi6ADlv29cn4-27" value="Aplikasi Manajemen Produk untuk Penjualan Tas Kulit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="760" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IXw6Qi-PNi6ADlv29cn4-28" value="Menambah / Update Informasi Stok Bahan Baku Barang" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="600" y="310" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="IXw6Qi-PNi6ADlv29cn4-29" value="Menambah / Update Informasi Supplier&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="630" y="630" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="IXw6Qi-PNi6ADlv29cn4-30" value="Menambah / Update Informasi Supplier&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="940" y="870" width="210" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
