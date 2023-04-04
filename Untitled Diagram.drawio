@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T09:49:53.184Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" version="21.1.1" etag="-lV4KvNBUBgZ7PbesuPQ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T10:12:35.029Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="JC83R2uO6tgulkvH5W8-" version="21.1.1" type="github">
   <diagram name="Page-1" id="xjvxwk_3kaTPLV7VPJxn">
-    <mxGraphModel>
+    <mxGraphModel dx="1967" dy="1953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IXw6Qi-PNi6ADlv29cn4-1" value="Staff Gudang" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="210" y="440" width="95" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="IXw6Qi-PNi6ADlv29cn4-6" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-30" width="840" height="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="IXw6Qi-PNi6ADlv29cn4-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Bagian Penjualan&lt;br&gt;Sistem dapat melakukan mengelola pesanan&amp;nbsp;&lt;br&gt;sistem dapat menyediakan pembuatan nota&amp;nbsp;&lt;br&gt;sistem dapat memfasilitasi pengembalian barang&lt;br&gt;sistem dapat menampilkan komplain pembeli&lt;br&gt;&lt;br&gt;&lt;br&gt;➢Bagian Gudang&lt;br&gt;sistem dapat menampilkan inforamsi stok barang tas kulit masuk ( dari produksi )&lt;br&gt;sistem dapat menampilkan inforamsi stok barang tas kulit keluar ( dari penjualan )&lt;br&gt;&lt;br&gt;&lt;br&gt;sistem dapat menambah informasi stok barang tas kulit&lt;br&gt;sistem dapat mengurangi informasi stok barang tas kulit&lt;br&gt;sistem dapat mengubah informasi stok barang tas kulit&lt;br&gt;sistem dapat menghapus informasi stok barang tas kulit&lt;br&gt;&lt;br&gt;&lt;br&gt;sistem dapat menampilkan inforamsi bahan baku tas kulit masuk&lt;br&gt;sistem dapat menampilkan inforamsi bahan baku tas kulit keluar&lt;br&gt;&lt;br&gt;&lt;br&gt;sistem dapat menambah informasi bahan baku&lt;br&gt;sistem dapat mengurangi informasi bahan baku&lt;br&gt;sistem dapat mengubah informasi bahan baku&lt;br&gt;sistem dapat menghapus informasi bahan baku&lt;br&gt;&lt;br&gt;&lt;br&gt;sistem dapat menampilkan data supplier&lt;br&gt;sistem dapat menambah informasi data supplier&lt;br&gt;sistem dapat mengurangi informasi data supplier&lt;br&gt;sistem dapat mengubah informasi data supplier&lt;br&gt;sistem dapat menghapus informasi data supplier&lt;br&gt;&lt;br&gt;&lt;br&gt;sistem memfasilitasi fitur login&lt;br&gt;sistem memfasilitasi fitur registerasi ( oleh admin saja )&lt;br&gt;sistem memfasilitasi fitur logout&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="-50" width="510" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="IXw6Qi-PNi6ADlv29cn4-13" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IXw6Qi-PNi6ADlv29cn4-14" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="334" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IXw6Qi-PNi6ADlv29cn4-15" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IXw6Qi-PNi6ADlv29cn4-16" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IXw6Qi-PNi6ADlv29cn4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IXw6Qi-PNi6ADlv29cn4-15" target="IXw6Qi-PNi6ADlv29cn4-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IXw6Qi-PNi6ADlv29cn4-23" value="Staff Penjualan" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="220" y="40" width="95" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="IXw6Qi-PNi6ADlv29cn4-24" value="Staff Produksi Barang" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="210" y="780" width="95" height="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
