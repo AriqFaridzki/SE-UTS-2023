@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-05T07:04:14.389Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/109.0" etag="-FAAcr-PKuQariIkjRMi" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-05T07:23:53.260Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/109.0" etag="NECAzOzr0dt67rFV06Xz" version="21.1.4" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="2438" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2072" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -241,31 +241,20 @@
         <mxCell id="wGSQI-NY6ljPiiBA0uL5-105" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-46">
           <mxGeometry x="230" y="1400" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wGSQI-NY6ljPiiBA0uL5-107" value="mencetak nota pembelian" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-107" value="membuat nota pembelian" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="1800" y="70" width="1050" height="1750" as="geometry" />
         </mxCell>
         <mxCell id="wGSQI-NY6ljPiiBA0uL5-108" value="Staff Gudang" style="swimlane;html=1;startSize=20;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-107">
           <mxGeometry y="20" width="450" height="1730" as="geometry" />
         </mxCell>
-        <mxCell id="wGSQI-NY6ljPiiBA0uL5-109" value="Klik Tombol&lt;br&gt;&quot;Lihat Nota Pembelian&quot;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5e5c64;strokeWidth=2;rounded=1;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-108">
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-109" value="&lt;div&gt;Klik Tombol &lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;cetak Nota&quot;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5e5c64;strokeWidth=2;rounded=1;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-108">
           <mxGeometry x="150" y="257.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wGSQI-NY6ljPiiBA0uL5-112" value="&lt;div&gt;Klik Tombol &lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;Buat Nota Pembelian&quot;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5e5c64;strokeWidth=2;rounded=1;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-108">
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-112" value="&lt;div&gt;Klik Tombol &lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;cetak Nota Pembelian&quot;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5e5c64;strokeWidth=2;rounded=1;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-108">
           <mxGeometry x="150" y="397.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wGSQI-NY6ljPiiBA0uL5-113" value="Memasukan data informasi yang berkaitan dengan nota" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5e5c64;strokeWidth=2;rounded=1;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-108">
-          <mxGeometry x="150" y="670" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="wGSQI-NY6ljPiiBA0uL5-114" value="Memilih Pilihan" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5e5c64;strokeWidth=2;rounded=1;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-108">
-          <mxGeometry x="155" y="910" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wGSQI-NY6ljPiiBA0uL5-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-107" source="wGSQI-NY6ljPiiBA0uL5-109" target="wGSQI-NY6ljPiiBA0uL5-123">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="622.5" y="308.71428571428567" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wGSQI-NY6ljPiiBA0uL5-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-107" source="wGSQI-NY6ljPiiBA0uL5-123" target="wGSQI-NY6ljPiiBA0uL5-112">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="150" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wGSQI-NY6ljPiiBA0uL5-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-107" source="wGSQI-NY6ljPiiBA0uL5-112" target="wGSQI-NY6ljPiiBA0uL5-124">
           <mxGeometry relative="1" as="geometry">
@@ -274,28 +263,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wGSQI-NY6ljPiiBA0uL5-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-107" source="wGSQI-NY6ljPiiBA0uL5-124" target="wGSQI-NY6ljPiiBA0uL5-113">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="695" y="720" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wGSQI-NY6ljPiiBA0uL5-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-107" source="wGSQI-NY6ljPiiBA0uL5-113" target="wGSQI-NY6ljPiiBA0uL5-125">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="210" y="820" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wGSQI-NY6ljPiiBA0uL5-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-107" source="wGSQI-NY6ljPiiBA0uL5-130" target="wGSQI-NY6ljPiiBA0uL5-114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wGSQI-NY6ljPiiBA0uL5-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-107" source="wGSQI-NY6ljPiiBA0uL5-125" target="wGSQI-NY6ljPiiBA0uL5-114">
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-107" source="wGSQI-NY6ljPiiBA0uL5-144" target="wGSQI-NY6ljPiiBA0uL5-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-107" source="wGSQI-NY6ljPiiBA0uL5-124" target="wGSQI-NY6ljPiiBA0uL5-114">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="695" y="880" />
-              <mxPoint x="215" y="880" />
+              <mxPoint x="695" y="660" />
+              <mxPoint x="215" y="660" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -304,20 +282,17 @@
             <mxRectangle x="660" y="20" width="40" height="970" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wGSQI-NY6ljPiiBA0uL5-123" value="Menampilkan Halaman &lt;br&gt;&quot;informasi nota pembelian&quot;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5e5c64;strokeWidth=2;rounded=1;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-122">
-          <mxGeometry x="188.75" y="397.5" width="120" height="60" as="geometry" />
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-123" value="Menampilkan Halaman &lt;br&gt;&quot;cetak nota Pembelian&quot;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5e5c64;strokeWidth=2;rounded=1;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-122">
+          <mxGeometry x="185" y="257.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wGSQI-NY6ljPiiBA0uL5-124" value="Menampilkan Halaman &lt;br&gt;&quot;Buat Nota Pembelian&quot;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5e5c64;strokeWidth=2;rounded=1;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-122">
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-124" value="Menampilkan Pesan&lt;br&gt;&quot;Apakah Yakin ingin mencetak Nota?&quot;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5e5c64;strokeWidth=2;rounded=1;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-122">
           <mxGeometry x="185" y="537.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wGSQI-NY6ljPiiBA0uL5-125" value="Menampilkan Pesan&lt;br&gt;&quot;Apakah Yakin Membuat Nota?&quot;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5e5c64;strokeWidth=2;rounded=1;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-122">
-          <mxGeometry x="185" y="770" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wGSQI-NY6ljPiiBA0uL5-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-122" source="wGSQI-NY6ljPiiBA0uL5-130" target="wGSQI-NY6ljPiiBA0uL5-124">
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-122" source="wGSQI-NY6ljPiiBA0uL5-130" target="wGSQI-NY6ljPiiBA0uL5-123">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="335" y="940" />
-              <mxPoint x="335" y="568" />
+              <mxPoint x="370" y="940" />
+              <mxPoint x="370" y="288" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -347,23 +322,33 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wGSQI-NY6ljPiiBA0uL5-133" value="menyimpan data informasi nota" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5e5c64;rounded=1;strokeWidth=2;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-122">
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-133" value="Mencetak Nota Pembelian" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5e5c64;rounded=1;strokeWidth=2;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-122">
           <mxGeometry x="180" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wGSQI-NY6ljPiiBA0uL5-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-122" source="wGSQI-NY6ljPiiBA0uL5-135" target="wGSQI-NY6ljPiiBA0uL5-137">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wGSQI-NY6ljPiiBA0uL5-135" value="Menampilkan pesan &quot;sukses membuat nota&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5e5c64;strokeWidth=2;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-122">
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-135" value="Menampilkan pesan &quot;sukses Mencetak nota&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5e5c64;strokeWidth=2;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-122">
           <mxGeometry x="180" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wGSQI-NY6ljPiiBA0uL5-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-122" source="wGSQI-NY6ljPiiBA0uL5-137" target="wGSQI-NY6ljPiiBA0uL5-143">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wGSQI-NY6ljPiiBA0uL5-137" value="Menampilkan Halaman &lt;br&gt;&quot;informasi nota pembelian&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5e5c64;strokeWidth=2;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-122">
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-137" value="menampilkan Halaman &quot;Lihat Nota Pembelian&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5e5c64;strokeWidth=2;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-122">
           <mxGeometry x="180" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wGSQI-NY6ljPiiBA0uL5-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-122" source="wGSQI-NY6ljPiiBA0uL5-139" target="wGSQI-NY6ljPiiBA0uL5-142">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="1190" />
+              <mxPoint x="320" y="1190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-150" value="gagal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wGSQI-NY6ljPiiBA0uL5-138">
+          <mxGeometry x="0.1316" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wGSQI-NY6ljPiiBA0uL5-139" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5e5c64;strokeWidth=2;rounded=1;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-122">
           <mxGeometry x="200" y="1150" width="80" height="80" as="geometry" />
@@ -374,15 +359,15 @@
             <mxPoint x="1230" y="1340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wGSQI-NY6ljPiiBA0uL5-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-122" source="wGSQI-NY6ljPiiBA0uL5-142" target="wGSQI-NY6ljPiiBA0uL5-124">
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-122" source="wGSQI-NY6ljPiiBA0uL5-142" target="wGSQI-NY6ljPiiBA0uL5-123">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="535" y="1190" />
-              <mxPoint x="535" y="568" />
+              <mxPoint x="535" y="288" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wGSQI-NY6ljPiiBA0uL5-142" value="Menampilkan pesan &quot;gagal membuat nota&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5e5c64;strokeWidth=2;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-122">
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-142" value="Menampilkan pesan &quot;gagal mencetak nota&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5e5c64;strokeWidth=2;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-122">
           <mxGeometry x="365" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wGSQI-NY6ljPiiBA0uL5-143" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-122">
@@ -397,7 +382,168 @@
         <mxCell id="wGSQI-NY6ljPiiBA0uL5-110" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#5e5c64;strokeWidth=2;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-122">
           <mxGeometry x="245" y="50" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wGSQI-NY6ljPiiBA0uL5-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-107" source="wGSQI-NY6ljPiiBA0uL5-144" target="wGSQI-NY6ljPiiBA0uL5-109">
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-107" source="wGSQI-NY6ljPiiBA0uL5-109" target="wGSQI-NY6ljPiiBA0uL5-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-107" source="wGSQI-NY6ljPiiBA0uL5-123" target="wGSQI-NY6ljPiiBA0uL5-112">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="695" y="448" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-157" value="Memperbaharui Stok barang" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="1980" width="1050" height="1750" as="geometry" />
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-158" value="Staff Gudang" style="swimlane;html=1;startSize=20;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-157">
+          <mxGeometry y="20" width="450" height="1730" as="geometry" />
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-159" value="&lt;div&gt;Klik Tombol &lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;cetak Nota&quot;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5e5c64;strokeWidth=2;rounded=1;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-158">
+          <mxGeometry x="150" y="257.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-160" value="&lt;div&gt;Klik Tombol &lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;cetak Nota Pembelian&quot;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5e5c64;strokeWidth=2;rounded=1;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-158">
+          <mxGeometry x="150" y="397.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-161" value="Memilih Pilihan" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5e5c64;strokeWidth=2;rounded=1;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-158">
+          <mxGeometry x="150" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-162" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-157" source="wGSQI-NY6ljPiiBA0uL5-160" target="wGSQI-NY6ljPiiBA0uL5-168">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="588" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-163" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-157" source="wGSQI-NY6ljPiiBA0uL5-173" target="wGSQI-NY6ljPiiBA0uL5-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-157" source="wGSQI-NY6ljPiiBA0uL5-188" target="wGSQI-NY6ljPiiBA0uL5-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-157" source="wGSQI-NY6ljPiiBA0uL5-168" target="wGSQI-NY6ljPiiBA0uL5-161">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="695" y="660" />
+              <mxPoint x="215" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-157" source="wGSQI-NY6ljPiiBA0uL5-159" target="wGSQI-NY6ljPiiBA0uL5-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-157" source="wGSQI-NY6ljPiiBA0uL5-167" target="wGSQI-NY6ljPiiBA0uL5-160">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="695" y="448" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-166" value="Sistem" style="swimlane;html=1;startSize=20;strokeColor=#5e5c64;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-157">
+          <mxGeometry x="450" y="20" width="600" height="1730" as="geometry">
+            <mxRectangle x="660" y="20" width="40" height="970" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-167" value="Menampilkan Halaman &lt;br&gt;&quot;cetak nota Pembelian&quot;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5e5c64;strokeWidth=2;rounded=1;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-166">
+          <mxGeometry x="185" y="257.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-168" value="Menampilkan Pesan&lt;br&gt;&quot;Apakah Yakin ingin mencetak Nota?&quot;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5e5c64;strokeWidth=2;rounded=1;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-166">
+          <mxGeometry x="185" y="537.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-166" source="wGSQI-NY6ljPiiBA0uL5-173" target="wGSQI-NY6ljPiiBA0uL5-167">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="940" />
+              <mxPoint x="370" y="288" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-170" value="Tidak Setuju" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wGSQI-NY6ljPiiBA0uL5-169">
+          <mxGeometry x="-0.4164" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-171" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-166" source="wGSQI-NY6ljPiiBA0uL5-173" target="wGSQI-NY6ljPiiBA0uL5-176">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-172" value="Setuju" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wGSQI-NY6ljPiiBA0uL5-171">
+          <mxGeometry x="-0.2211" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-173" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5e5c64;strokeWidth=2;rounded=1;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-166">
+          <mxGeometry x="200" y="900" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-166" source="wGSQI-NY6ljPiiBA0uL5-183" target="wGSQI-NY6ljPiiBA0uL5-178">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-175" value="berhasil" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wGSQI-NY6ljPiiBA0uL5-174">
+          <mxGeometry x="-0.2613" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-176" value="Mencetak Nota Pembelian" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5e5c64;rounded=1;strokeWidth=2;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-166">
+          <mxGeometry x="180" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-166" source="wGSQI-NY6ljPiiBA0uL5-178" target="wGSQI-NY6ljPiiBA0uL5-180">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-178" value="Menampilkan pesan &quot;sukses Mencetak nota&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5e5c64;strokeWidth=2;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-166">
+          <mxGeometry x="180" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-166" source="wGSQI-NY6ljPiiBA0uL5-180" target="wGSQI-NY6ljPiiBA0uL5-187">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-180" value="menampilkan Halaman &quot;Lihat Nota Pembelian&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5e5c64;strokeWidth=2;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-166">
+          <mxGeometry x="180" y="1380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-166" source="wGSQI-NY6ljPiiBA0uL5-183" target="wGSQI-NY6ljPiiBA0uL5-186">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="1190" />
+              <mxPoint x="320" y="1190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-182" value="gagal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wGSQI-NY6ljPiiBA0uL5-181">
+          <mxGeometry x="0.1316" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-183" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5e5c64;strokeWidth=2;rounded=1;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-166">
+          <mxGeometry x="200" y="1150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-184" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-166" source="wGSQI-NY6ljPiiBA0uL5-176" target="wGSQI-NY6ljPiiBA0uL5-183">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1230" y="1170" as="sourcePoint" />
+            <mxPoint x="1230" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-166" source="wGSQI-NY6ljPiiBA0uL5-186" target="wGSQI-NY6ljPiiBA0uL5-167">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="535" y="1190" />
+              <mxPoint x="535" y="288" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-186" value="Menampilkan pesan &quot;gagal mencetak nota&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5e5c64;strokeWidth=2;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-166">
+          <mxGeometry x="365" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-187" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-166">
+          <mxGeometry x="225" y="1520" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-188" value="menampilkan Halaman &quot;Lihat Nota Pembelian&quot;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5e5c64;strokeWidth=2;rounded=1;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-166">
+          <mxGeometry x="200" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-166" source="wGSQI-NY6ljPiiBA0uL5-190" target="wGSQI-NY6ljPiiBA0uL5-188">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-190" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#5e5c64;strokeWidth=2;" vertex="1" parent="wGSQI-NY6ljPiiBA0uL5-166">
+          <mxGeometry x="245" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wGSQI-NY6ljPiiBA0uL5-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="wGSQI-NY6ljPiiBA0uL5-166" source="wGSQI-NY6ljPiiBA0uL5-190" target="wGSQI-NY6ljPiiBA0uL5-190">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
