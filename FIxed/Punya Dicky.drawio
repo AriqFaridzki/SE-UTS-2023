@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T00:06:25.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="npfCBGR_bZXr4u5oszS0" version="21.1.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-04-06T00:08:35.676Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="hpCANup_FWxlyPECO28w" version="21.1.4" type="github" pages="4">
   <diagram name="Page-1" id="5M983Ip4SrJTzG_4KZ-2">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -99,7 +99,7 @@
         <mxCell id="lbYMcMf_O1xBbXFyeCHH-4" value="Admin" style="text;whiteSpace=wrap;html=1;fontSize=19;align=center;" vertex="1" parent="1">
           <mxGeometry x="100" y="50" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lbYMcMf_O1xBbXFyeCHH-5" value="Halaman form&amp;nbsp;&lt;br&gt;login" style="text;whiteSpace=wrap;html=1;fontSize=19;align=center;" vertex="1" parent="1">
+        <mxCell id="lbYMcMf_O1xBbXFyeCHH-5" value="Halaman Form Register" style="text;whiteSpace=wrap;html=1;fontSize=19;align=center;" vertex="1" parent="1">
           <mxGeometry x="325" y="40" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lbYMcMf_O1xBbXFyeCHH-7" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" vertex="1" parent="1">
