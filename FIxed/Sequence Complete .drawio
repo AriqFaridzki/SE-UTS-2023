@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T00:20:25.117Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="Rs7T8NqNwFusK3o2T-Xx" version="21.1.4" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-07-01T04:52:33.634Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="DCP6GNg46fVspCaTm-56" version="21.5.2" type="github" pages="20">
   <diagram name="Lihat Stok Barang" id="1RANx4102WIwLDPeEz-W">
-    <mxGraphModel dx="1533" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -104,7 +104,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ePVJI0FRAtfmDlSX30Z0" name="Tambah Stok Barang">
-    <mxGraphModel dx="134" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="265" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -512,7 +512,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0Xt7V39SauXleWPBI10T" name="Lihat Nota">
-    <mxGraphModel dx="1510" dy="68" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="-108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -618,7 +618,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KNDHbGr06p0jS3d7d85a" name="Tambah Nota">
-    <mxGraphModel dx="134" dy="-39" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="265" dy="-108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1025,7 +1025,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JZkgVvOgvX2tcruCWpCh" name="Cetak Nota">
-    <mxGraphModel dx="692" dy="-528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="265" dy="-935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2987,6 +2987,37 @@
         <mxCell id="Uj5qlRfY6RN6O9rQDywd-36" value="Klik tombol&lt;br&gt;registerasi()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1024" y="125" width="90" height="40" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fW59UWhJ_KLJzVEVr65X" name="Fitur Menambah informasi stok barang">
+    <mxGraphModel dx="1434" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tKcK3o2jXv3rhwNKkqwP-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="20" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tKcK3o2jXv3rhwNKkqwP-2" value="Halaman informasi stok barang" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="20" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tKcK3o2jXv3rhwNKkqwP-3" value="Form barang" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="20" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tKcK3o2jXv3rhwNKkqwP-4" value="Database" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="20" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tKcK3o2jXv3rhwNKkqwP-5" value="" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="20" width="70" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Page-19" id="LJGclQ5fx5gzFpGwZDY6">
+    <mxGraphModel dx="1434" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="CvZXnskpjgs-syLZX1fW-0" />
+        <mxCell id="CvZXnskpjgs-syLZX1fW-1" parent="CvZXnskpjgs-syLZX1fW-0" />
       </root>
     </mxGraphModel>
   </diagram>
