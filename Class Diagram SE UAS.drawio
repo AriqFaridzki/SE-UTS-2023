@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-02T14:37:39.348Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="Vy8rbQmhZSt3sgXA0WcF" version="21.5.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-02T14:38:02.961Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="c4eTf27WOPy5-xd-9Mi-" version="21.5.2" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,7 +122,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="flwVs126roQJfSaLhNs6" name="Class Diagram SE">
-    <mxGraphModel dx="1533" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2045" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -222,7 +222,7 @@
         <mxCell id="XWd1LqdxiURgioBI9aVz-69" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" parent="XWd1LqdxiURgioBI9aVz-64" vertex="1">
           <mxGeometry y="142" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="XWd1LqdxiURgioBI9aVz-71" value="+ tambahStaff()&lt;br&gt;+ ubahStaff()&lt;br&gt;+ dapatkanStaff()&lt;br&gt;+ hapusStaff&lt;br&gt;+ login()" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#393C56;rounded=1;" parent="XWd1LqdxiURgioBI9aVz-64" vertex="1">
+        <mxCell id="XWd1LqdxiURgioBI9aVz-71" value="+ tambahStaff()&lt;br&gt;+ ubahStaff()&lt;br&gt;+ dapatkanStaff()&lt;br&gt;+ hapusStaff&lt;br&gt;+ login(Staff)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#393C56;rounded=1;" parent="XWd1LqdxiURgioBI9aVz-64" vertex="1">
           <mxGeometry y="150" width="160" height="92" as="geometry" />
         </mxCell>
         <mxCell id="XIjyqr4JSDa7rmxiRrNb-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" parent="1" source="XWd1LqdxiURgioBI9aVz-73" target="XWd1LqdxiURgioBI9aVz-58" edge="1">
