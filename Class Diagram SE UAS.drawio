@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-02T08:13:12.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="vh3-WzgUQKBcnvexm2bt" version="21.5.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-02T08:13:28.170Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="Id51O_IoFPUp6XVSsS-k" version="21.5.2" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -654,16 +654,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="51TB43XSlWNsoCygn02c-1" value="Detail_Pesanan" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1580.0000000000002" y="1660" width="270" height="250" as="geometry" />
+          <mxGeometry x="1540" y="1640" width="230" height="150" as="geometry" />
         </mxCell>
         <mxCell id="51TB43XSlWNsoCygn02c-2" value="&lt;div&gt;- Id_pesanan : Integer&lt;/div&gt;- Nama_barang : &amp;lt;list&amp;gt;Array" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#393C56;rounded=1;" parent="51TB43XSlWNsoCygn02c-1" vertex="1">
-          <mxGeometry y="30" width="270" height="150" as="geometry" />
+          <mxGeometry y="30" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="51TB43XSlWNsoCygn02c-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" parent="51TB43XSlWNsoCygn02c-1" vertex="1">
-          <mxGeometry y="180" width="270" height="8" as="geometry" />
+          <mxGeometry y="80" width="230" height="8" as="geometry" />
         </mxCell>
         <mxCell id="51TB43XSlWNsoCygn02c-4" value="&lt;div&gt;+getNamaBarang()&lt;/div&gt;&lt;div&gt;+addNamaBarang()&lt;/div&gt;&lt;div&gt;+removeBarang(String Nama_barang )&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#393C56;rounded=1;" parent="51TB43XSlWNsoCygn02c-1" vertex="1">
-          <mxGeometry y="188" width="270" height="62" as="geometry" />
+          <mxGeometry y="88" width="230" height="62" as="geometry" />
         </mxCell>
         <mxCell id="xvfXCg9nMK2wJOpqpjW8-1" value="Divisi" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="780" width="160" height="140" as="geometry" />
