@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-02T13:55:14.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="4DfN2Qnxn4BX9eAqiGtS" version="21.5.2" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2023-07-02T14:00:30.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="DRH7myj2Y4KE__Wbh6OO" version="21.5.2" type="github" pages="19">
   <diagram id="ylDArNQa-RmqtMVMBh_f" name="Fitur Data supplier">
-    <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -113,7 +113,7 @@
         <mxCell id="PvyolTraO3h1WAIyVw0o-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="9h8lB3KwmfdznffJFHDc-3" source="4DykDerMzTWDJNVBTBhN-5" target="4DykDerMzTWDJNVBTBhN-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PvyolTraO3h1WAIyVw0o-25" value="Belum selesai" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PvyolTraO3h1WAIyVw0o-24" vertex="1" connectable="0">
+        <mxCell id="PvyolTraO3h1WAIyVw0o-25" value="Ingin Menggunakan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PvyolTraO3h1WAIyVw0o-24" vertex="1" connectable="0">
           <mxGeometry x="-0.3636" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -153,6 +153,12 @@
         <mxCell id="uBM_MH94Df8RZ0m-Cp8l-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="9h8lB3KwmfdznffJFHDc-3">
           <mxGeometry x="120" y="730" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="uBM_MH94Df8RZ0m-Cp8l-6" value="apakah User Menggunakan Fitur Lain?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9h8lB3KwmfdznffJFHDc-3">
+          <mxGeometry x="190" y="890" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uBM_MH94Df8RZ0m-Cp8l-7" value="Apakah data Valid?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9h8lB3KwmfdznffJFHDc-3">
+          <mxGeometry x="180" y="740" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="PvyolTraO3h1WAIyVw0o-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="F74iwkgU_fhoOmhToAK8-1" target="Dw0WlqHph_3M9wZ22l3R-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -183,7 +189,7 @@
         <mxCell id="PvyolTraO3h1WAIyVw0o-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4DykDerMzTWDJNVBTBhN-5" target="4DykDerMzTWDJNVBTBhN-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PvyolTraO3h1WAIyVw0o-23" value="Selesai" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PvyolTraO3h1WAIyVw0o-22" vertex="1" connectable="0">
+        <mxCell id="PvyolTraO3h1WAIyVw0o-23" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PvyolTraO3h1WAIyVw0o-22" vertex="1" connectable="0">
           <mxGeometry x="0.2231" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
