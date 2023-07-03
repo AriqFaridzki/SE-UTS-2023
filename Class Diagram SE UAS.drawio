@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-03T03:44:58.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="TSUM5SaXn1I2VXKNKADL" version="21.5.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-03T04:04:37.405Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="7AfCtgU8tt2XmukTPdPs" version="21.5.2" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -319,19 +319,19 @@
           <mxGeometry y="188" width="220" height="62" as="geometry" />
         </mxCell>
         <mxCell id="z_JI0RrxL9cTQsVmLyIO-10" value="Komplain" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1210" y="840" width="355" height="190" as="geometry" />
+          <mxGeometry x="1670" y="945" width="355" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="z_JI0RrxL9cTQsVmLyIO-11" value="- Id_komentar : Integer&lt;br&gt;- Komentar: String&lt;br&gt;- Id_pelanggan:integer&lt;br&gt;&lt;div&gt;- status_ditanggapi : boolean&lt;/div&gt;&lt;div&gt;- tanggapan_staff:String&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#393C56;rounded=1;" parent="z_JI0RrxL9cTQsVmLyIO-10" vertex="1">
+        <mxCell id="z_JI0RrxL9cTQsVmLyIO-11" value="- Id_komplain: Integer&lt;br&gt;- Komentar: String&lt;br&gt;&lt;div&gt;- Id_pelanggan:integer&lt;/div&gt;&lt;div&gt;- dibuat_tanggal : date&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#393C56;rounded=1;" parent="z_JI0RrxL9cTQsVmLyIO-10" vertex="1">
           <mxGeometry y="30" width="355" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="z_JI0RrxL9cTQsVmLyIO-14" value="+ getKomplainPelanggan(id_komentar)&lt;br&gt;+ getALLkomplain(id_komentar)&lt;br&gt;+ getKomplainToday(date)&lt;br&gt;+ resolveKomplain(Boolean status, String tanggapanStaff)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#393C56;rounded=1;" parent="z_JI0RrxL9cTQsVmLyIO-10" vertex="1">
-          <mxGeometry y="105" width="355" height="67" as="geometry" />
-        </mxCell>
         <mxCell id="z_JI0RrxL9cTQsVmLyIO-13" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" parent="z_JI0RrxL9cTQsVmLyIO-10" vertex="1">
-          <mxGeometry y="172" width="355" height="8" as="geometry" />
+          <mxGeometry y="105" width="355" height="8" as="geometry" />
         </mxCell>
         <mxCell id="z_JI0RrxL9cTQsVmLyIO-12" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#393C56;rounded=1;" parent="z_JI0RrxL9cTQsVmLyIO-10" vertex="1">
-          <mxGeometry y="180" width="355" height="10" as="geometry" />
+          <mxGeometry y="113" width="355" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="z_JI0RrxL9cTQsVmLyIO-14" value="+ getKomplainPelanggan(id_komentar)&lt;br&gt;+ getALLkomplain(id_komentar)&lt;br&gt;+ getKomplainToday(date)&lt;br&gt;+ resolveKomplain(Boolean status, String tanggapanStaff)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#393C56;rounded=1;" parent="z_JI0RrxL9cTQsVmLyIO-10" vertex="1">
+          <mxGeometry y="123" width="355" height="67" as="geometry" />
         </mxCell>
         <mxCell id="z_JI0RrxL9cTQsVmLyIO-15" value="Admin" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="971" y="480" width="160" height="210" as="geometry" />
@@ -445,7 +445,7 @@
             <Array as="points">
               <mxPoint x="1276.46" y="1065" />
             </Array>
-            <mxPoint x="1672.46" y="1065" as="targetPoint" />
+            <mxPoint x="1670" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XIjyqr4JSDa7rmxiRrNb-49" value="Menanggapi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=none;fontColor=#393C56;rounded=1;" parent="XIjyqr4JSDa7rmxiRrNb-48" vertex="1" connectable="0">
@@ -917,6 +917,18 @@
           <mxGeometry x="0.8603" y="6" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mz6Z6sb08Zv7QSQIJ6Me-82" value="Tanggapan" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1432.46" y="802" width="185.38" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="mz6Z6sb08Zv7QSQIJ6Me-83" value="- Id_tanggapan: Integer&lt;br&gt;&lt;div&gt;- id_staff: int&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Id_komplain: int&lt;br&gt;&lt;/div&gt;&lt;div&gt;- isi_tanggapan: String&lt;br&gt;&lt;/div&gt;&lt;div&gt;- status_ditanggapi : boolean&lt;/div&gt;&lt;div&gt;- ditanggapi_tanggal : date&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#393C56;rounded=1;" vertex="1" parent="mz6Z6sb08Zv7QSQIJ6Me-82">
+          <mxGeometry y="30" width="185.38" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mz6Z6sb08Zv7QSQIJ6Me-84" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="mz6Z6sb08Zv7QSQIJ6Me-82">
+          <mxGeometry y="120" width="185.38" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="mz6Z6sb08Zv7QSQIJ6Me-85" value="+ tambahNota()&lt;br&gt;+ ubahNota()&lt;br&gt;+ dapatkanNota()&lt;br&gt;+ hapusNota()" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#393C56;rounded=1;" vertex="1" parent="mz6Z6sb08Zv7QSQIJ6Me-82">
+          <mxGeometry y="128" width="185.38" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
