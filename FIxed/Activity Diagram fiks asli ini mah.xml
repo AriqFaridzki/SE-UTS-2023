@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-03T01:22:11.179Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_YliA5wv00rzT7nadSIs" version="21.5.2" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2023-07-03T01:31:03.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="8bV4c0-qLvf5HXptnfEH" version="21.5.2" type="github" pages="19">
   <diagram id="ylDArNQa-RmqtMVMBh_f" name="Fitur Data supplier">
     <mxGraphModel dx="1434" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -243,7 +243,7 @@
         <mxCell id="OEqUfihMcko2o_vf8V2R-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="9h8lB3KwmfdznffJFHDc-2" source="OEqUfihMcko2o_vf8V2R-14" target="PvyolTraO3h1WAIyVw0o-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OEqUfihMcko2o_vf8V2R-14" value="Mendaotakan pesan &quot;Pesan data berhasil dihapus&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9h8lB3KwmfdznffJFHDc-2">
+        <mxCell id="OEqUfihMcko2o_vf8V2R-14" value="Mendaotakan pesan &quot;Pesan data berhasil diperbarui&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9h8lB3KwmfdznffJFHDc-2">
           <mxGeometry x="85" y="2540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OEqUfihMcko2o_vf8V2R-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="9h8lB3KwmfdznffJFHDc-2" source="OEqUfihMcko2o_vf8V2R-7" target="OEqUfihMcko2o_vf8V2R-14">
@@ -271,7 +271,7 @@
         <mxCell id="PvyolTraO3h1WAIyVw0o-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="9h8lB3KwmfdznffJFHDc-2" source="PvyolTraO3h1WAIyVw0o-8" target="PvyolTraO3h1WAIyVw0o-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PvyolTraO3h1WAIyVw0o-7" value="Menekan tombol hapus" style="rounded=1;whiteSpace=wrap;html=1;" parent="9h8lB3KwmfdznffJFHDc-2" vertex="1">
+        <mxCell id="PvyolTraO3h1WAIyVw0o-7" value="Menekan tombol &quot;hapus data supplier&quot;" style="rounded=1;whiteSpace=wrap;html=1;" parent="9h8lB3KwmfdznffJFHDc-2" vertex="1">
           <mxGeometry x="95" y="3150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PvyolTraO3h1WAIyVw0o-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="9h8lB3KwmfdznffJFHDc-2" source="PvyolTraO3h1WAIyVw0o-3" target="PvyolTraO3h1WAIyVw0o-7" edge="1">
