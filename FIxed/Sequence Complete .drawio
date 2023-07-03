@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-03T04:52:33.724Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="p8e8smZRgWDnja5cFfyC" version="21.5.2" type="github" pages="25">
+<mxfile host="app.diagrams.net" modified="2023-07-03T07:16:12.424Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="EwLc6rRGCbVh4fFsMMr8" version="21.5.2" type="github" pages="25">
   <diagram id="fW59UWhJ_KLJzVEVr65X" name="Fitur Menambah informasi stok barang">
     <mxGraphModel dx="3134" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2184,6 +2184,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1110" y="1560" as="targetPoint" />
             <mxPoint x="1110.0588235294117" y="340" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IEMBOx-UPeYcs3g6oPZS-0" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.356;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="arIvy9mPvH8vkcSWSTw6-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-860" y="639.9999999999997" as="sourcePoint" />
+            <mxPoint x="-285" y="639.9999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
