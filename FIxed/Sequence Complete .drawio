@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T07:05:18.016Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="LfgKqcCU_m1l3jFQun9U" version="21.5.2" type="github" pages="31">
+<mxfile host="app.diagrams.net" modified="2023-07-04T14:02:25.226Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="hmioTgjAg_nq-ecPguwq" version="21.5.2" type="github" pages="31">
   <diagram id="fW59UWhJ_KLJzVEVr65X" name="Fitur Menambah informasi stok barang">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3598" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -488,7 +488,7 @@
         <mxCell id="94Tn0FD8faaWMeGUc1yy-102" value="[else]" style="line;strokeWidth=1;dashed=1;labelPosition=center;verticalLabelPosition=bottom;align=left;verticalAlign=top;spacingLeft=20;spacingTop=15;html=1;whiteSpace=wrap;" parent="94Tn0FD8faaWMeGUc1yy-103" vertex="1">
           <mxGeometry y="80" width="1950" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="94Tn0FD8faaWMeGUc1yy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" parent="1" edge="1" source="94Tn0FD8faaWMeGUc1yy-10">
+        <mxCell id="94Tn0FD8faaWMeGUc1yy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" parent="1" source="94Tn0FD8faaWMeGUc1yy-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1110" y="1560" as="targetPoint" />
             <mxPoint x="1110.0588235294117" y="340" as="sourcePoint" />
@@ -2019,7 +2019,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Fitur komplain dan return barang" id="oZAxq1q1uKZR_zla5WJ8">
-    <mxGraphModel dx="2284" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3083" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="tG4kn7_zV-UL5gXhipPa-0" />
         <mxCell id="tG4kn7_zV-UL5gXhipPa-1" parent="tG4kn7_zV-UL5gXhipPa-0" />
@@ -2130,8 +2130,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-FU3LLleeM6AJGsgZuX0-6" value="menampilkan pesan &quot;komplain berhasil ditanggapi&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" parent="-FU3LLleeM6AJGsgZuX0-0" vertex="1">
-          <mxGeometry x="170" y="80" width="410" height="30" as="geometry" />
+        <mxCell id="-FU3LLleeM6AJGsgZuX0-6" value="menampilkan pesan&lt;br&gt; &quot;komplain berhasil ditanggapi&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" parent="-FU3LLleeM6AJGsgZuX0-0" vertex="1">
+          <mxGeometry x="250" y="70" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-FU3LLleeM6AJGsgZuX0-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=open;startFill=0;fontSize=17;" parent="-FU3LLleeM6AJGsgZuX0-0" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2169,8 +2169,8 @@
             <mxPoint x="1475" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-FU3LLleeM6AJGsgZuX0-24" value="menampilkan pesan &quot;komplain gagal ditanggapi&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" parent="-FU3LLleeM6AJGsgZuX0-0" vertex="1">
-          <mxGeometry x="180" y="210" width="390" height="30" as="geometry" />
+        <mxCell id="-FU3LLleeM6AJGsgZuX0-24" value="menampilkan pesan &lt;br&gt;&quot;komplain gagal ditanggapi&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" parent="-FU3LLleeM6AJGsgZuX0-0" vertex="1">
+          <mxGeometry x="260" y="200" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-FU3LLleeM6AJGsgZuX0-12" value="tampilkan pesan &quot;komplain berhasil ditanggapi&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" parent="tG4kn7_zV-UL5gXhipPa-2" vertex="1">
           <mxGeometry x="345" y="595.5" width="380" height="30" as="geometry" />
