@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T03:53:07.676Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="HcmI3A5l1xn1vxXwAY_M" version="21.5.2" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2023-07-04T03:53:38.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="_pYPCINNEcCVI5lQ2bbm" version="21.5.2" type="github" pages="24">
   <diagram id="ylDArNQa-RmqtMVMBh_f" name="Fitur Data supplier">
-    <mxGraphModel dx="1658" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="824" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -217,7 +217,7 @@
         <mxCell id="uBM_MH94Df8RZ0m-Cp8l-19" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="9h8lB3KwmfdznffJFHDc-2" vertex="1">
           <mxGeometry x="140" y="1010" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="uBM_MH94Df8RZ0m-Cp8l-6" value="Kembali " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="9h8lB3KwmfdznffJFHDc-2" vertex="1">
+        <mxCell id="uBM_MH94Df8RZ0m-Cp8l-6" value="Ingin Menggunakan Fitur lain?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="9h8lB3KwmfdznffJFHDc-2" vertex="1">
           <mxGeometry x="215" y="1020" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uBM_MH94Df8RZ0m-Cp8l-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.042;entryY=0.486;entryDx=0;entryDy=0;entryPerimeter=0;" parent="9h8lB3KwmfdznffJFHDc-2" source="uBM_MH94Df8RZ0m-Cp8l-28" target="4DykDerMzTWDJNVBTBhN-7" edge="1">
@@ -313,7 +313,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Fitur data bahan baku" id="ssxwIcKlcnKeb8-AQ8QY">
-    <mxGraphModel dx="1658" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="824" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="VgLxU2G0YeisXjrQ6tBR-0" />
         <mxCell id="VgLxU2G0YeisXjrQ6tBR-1" parent="VgLxU2G0YeisXjrQ6tBR-0" />
@@ -530,7 +530,7 @@
         <mxCell id="VgLxU2G0YeisXjrQ6tBR-63" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="VgLxU2G0YeisXjrQ6tBR-2" vertex="1">
           <mxGeometry x="140" y="1010" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VgLxU2G0YeisXjrQ6tBR-64" value="Kembali " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="VgLxU2G0YeisXjrQ6tBR-2" vertex="1">
+        <mxCell id="VgLxU2G0YeisXjrQ6tBR-64" value="Ingin Menggunakan Fitur lain?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="VgLxU2G0YeisXjrQ6tBR-2" vertex="1">
           <mxGeometry x="215" y="1020" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VgLxU2G0YeisXjrQ6tBR-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.042;entryY=0.486;entryDx=0;entryDy=0;entryPerimeter=0;" parent="VgLxU2G0YeisXjrQ6tBR-2" source="VgLxU2G0YeisXjrQ6tBR-66" target="VgLxU2G0YeisXjrQ6tBR-29" edge="1">
@@ -626,7 +626,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Fitur Data Barang" id="KKvI6vRDGNbQr19gGFHf">
-    <mxGraphModel dx="1658" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="824" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Is-eBK1AoT5KGLvnX2JR-0" />
         <mxCell id="Is-eBK1AoT5KGLvnX2JR-1" parent="Is-eBK1AoT5KGLvnX2JR-0" />
@@ -843,7 +843,7 @@
         <mxCell id="Is-eBK1AoT5KGLvnX2JR-63" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="Is-eBK1AoT5KGLvnX2JR-2" vertex="1">
           <mxGeometry x="140" y="1010" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Is-eBK1AoT5KGLvnX2JR-64" value="Kembali " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Is-eBK1AoT5KGLvnX2JR-2" vertex="1">
+        <mxCell id="Is-eBK1AoT5KGLvnX2JR-64" value="Ingin Menggunakan Fitur lain?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Is-eBK1AoT5KGLvnX2JR-2" vertex="1">
           <mxGeometry x="215" y="1020" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Is-eBK1AoT5KGLvnX2JR-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.042;entryY=0.486;entryDx=0;entryDy=0;entryPerimeter=0;" parent="Is-eBK1AoT5KGLvnX2JR-2" source="Is-eBK1AoT5KGLvnX2JR-66" target="Is-eBK1AoT5KGLvnX2JR-29" edge="1">
