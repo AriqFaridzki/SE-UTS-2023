@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T02:08:16.981Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="3rRlc8V_D7d8sFlUU1JR" version="21.5.2" type="github" pages="26">
+<mxfile host="app.diagrams.net" modified="2023-07-04T02:09:28.014Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="_iG8NlzJD1YbW08K6JIQ" version="21.5.2" type="github" pages="26">
   <diagram id="fW59UWhJ_KLJzVEVr65X" name="Fitur Menambah informasi stok barang">
     <mxGraphModel dx="3374" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1642,8 +1642,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Fitur staff penjualan" id="B3fLIyk0nOeEFQt5vTHj">
-    <mxGraphModel dx="3374" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram name="Fitur Pesanan" id="B3fLIyk0nOeEFQt5vTHj">
+    <mxGraphModel dx="4887" dy="1720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="arIvy9mPvH8vkcSWSTw6-0" />
         <mxCell id="arIvy9mPvH8vkcSWSTw6-1" parent="arIvy9mPvH8vkcSWSTw6-0" />
@@ -1962,33 +1962,6 @@
         <mxCell id="arIvy9mPvH8vkcSWSTw6-80" value="return data pesanan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" parent="arIvy9mPvH8vkcSWSTw6-2" vertex="1">
           <mxGeometry x="400" y="265.5" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="arIvy9mPvH8vkcSWSTw6-81" value="" style="group" parent="arIvy9mPvH8vkcSWSTw6-1" connectable="0" vertex="1">
-          <mxGeometry x="-75" y="195" width="130" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="arIvy9mPvH8vkcSWSTw6-82" value="halaman stok barang" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="arIvy9mPvH8vkcSWSTw6-81" vertex="1">
-          <mxGeometry x="-10" y="5" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="arIvy9mPvH8vkcSWSTw6-83" value="" style="group" parent="arIvy9mPvH8vkcSWSTw6-1" connectable="0" vertex="1">
-          <mxGeometry x="-180" y="310" width="135" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="arIvy9mPvH8vkcSWSTw6-84" value="tambah stok barang()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="arIvy9mPvH8vkcSWSTw6-83" vertex="1">
-          <mxGeometry x="-5" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="arIvy9mPvH8vkcSWSTw6-85" value="" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=open;startFill=0;dashed=1;" parent="arIvy9mPvH8vkcSWSTw6-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-170" y="230" as="sourcePoint" />
-            <mxPoint x="125" y="230" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-100" y="230" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="arIvy9mPvH8vkcSWSTw6-86" value="" style="endArrow=classic;html=1;rounded=0;" parent="arIvy9mPvH8vkcSWSTw6-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-260" y="340" as="sourcePoint" />
-            <mxPoint x="35" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="arIvy9mPvH8vkcSWSTw6-87" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.125;exitDx=0;exitDy=0;exitPerimeter=0;" parent="arIvy9mPvH8vkcSWSTw6-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="172.5" as="sourcePoint" />
@@ -1997,24 +1970,6 @@
         </mxCell>
         <mxCell id="arIvy9mPvH8vkcSWSTw6-88" value="bukaDataSupplier()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" parent="arIvy9mPvH8vkcSWSTw6-1" vertex="1">
           <mxGeometry x="217.5" y="130" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="arIvy9mPvH8vkcSWSTw6-89" value="" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=open;startFill=0;dashed=1;exitX=1;exitY=0.289;exitDx=0;exitDy=0;exitPerimeter=0;" parent="arIvy9mPvH8vkcSWSTw6-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-800" y="495.0999999999999" as="sourcePoint" />
-            <mxPoint x="-225" y="495.0999999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="arIvy9mPvH8vkcSWSTw6-90" value="Menampilkan&amp;nbsp;&lt;br&gt;halaman&lt;br&gt;stok barang" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="arIvy9mPvH8vkcSWSTw6-1" vertex="1">
-          <mxGeometry x="-455" y="440" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="arIvy9mPvH8vkcSWSTw6-91" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.356;exitDx=0;exitDy=0;exitPerimeter=0;" parent="arIvy9mPvH8vkcSWSTw6-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-850" y="590.3999999999996" as="sourcePoint" />
-            <mxPoint x="-275" y="590.3999999999996" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="arIvy9mPvH8vkcSWSTw6-92" value="Isi data stook barang" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="arIvy9mPvH8vkcSWSTw6-1" vertex="1">
-          <mxGeometry x="-602.5" y="560" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="arIvy9mPvH8vkcSWSTw6-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="arIvy9mPvH8vkcSWSTw6-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2184,12 +2139,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1110" y="1560" as="targetPoint" />
             <mxPoint x="1110.0588235294117" y="340" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IEMBOx-UPeYcs3g6oPZS-0" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.356;exitDx=0;exitDy=0;exitPerimeter=0;" parent="arIvy9mPvH8vkcSWSTw6-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-860" y="639.9999999999997" as="sourcePoint" />
-            <mxPoint x="-285" y="639.9999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
@@ -2732,7 +2681,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Lihat Stok Barang" id="1RANx4102WIwLDPeEz-W">
-    <mxGraphModel dx="1674" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
