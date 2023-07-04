@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T03:20:42.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="EYFC_b1wAM_UVlvy9mNR" version="21.5.2" type="github" pages="30">
+<mxfile host="app.diagrams.net" modified="2023-07-04T03:24:41.286Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="tgu0u_-ydJBy5TprIYuS" version="21.5.2" type="github" pages="30">
   <diagram id="fW59UWhJ_KLJzVEVr65X" name="Fitur Menambah informasi stok barang">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7113,7 +7113,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Request Bahan Baku" id="o95h5yVI562kmGrRiHZV">
-    <mxGraphModel dx="1993" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2508" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="byyXQy2XBTRNWG9-Hc-T-0" />
         <mxCell id="byyXQy2XBTRNWG9-Hc-T-1" parent="byyXQy2XBTRNWG9-Hc-T-0" />
@@ -7177,16 +7177,16 @@
         <mxCell id="byyXQy2XBTRNWG9-Hc-T-21" value="Halaman Buat Request &lt;br&gt;Bahan Baku" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
           <mxGeometry x="280" y="10" width="80" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="byyXQy2XBTRNWG9-Hc-T-22" value="Halaman&lt;br&gt; Mengubah Request" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
+        <mxCell id="byyXQy2XBTRNWG9-Hc-T-22" value="Halaman&lt;br&gt; Mengubah Bahan Baku" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
           <mxGeometry x="450" y="10" width="80" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="byyXQy2XBTRNWG9-Hc-T-23" value="Database&lt;br&gt;Produk" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
+        <mxCell id="byyXQy2XBTRNWG9-Hc-T-23" value="Database" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
           <mxGeometry x="774" y="9" width="80" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="byyXQy2XBTRNWG9-Hc-T-24" value="Controller &lt;br&gt;Request Produk" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
+        <mxCell id="byyXQy2XBTRNWG9-Hc-T-24" value="Controller &lt;br&gt;Request Bahan Baku" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
           <mxGeometry x="616" y="11" width="80" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="byyXQy2XBTRNWG9-Hc-T-25" value="getRequestProduk()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
+        <mxCell id="byyXQy2XBTRNWG9-Hc-T-25" value="getRequestBahanBaku()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
           <mxGeometry x="380" y="117" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="byyXQy2XBTRNWG9-Hc-T-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
@@ -7207,17 +7207,17 @@
             <mxPoint x="155" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="byyXQy2XBTRNWG9-Hc-T-29" value="&lt;div&gt;LihatRequest&lt;br&gt;ProdukBtn()&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
+        <mxCell id="byyXQy2XBTRNWG9-Hc-T-29" value="&lt;div&gt;LihatRequest&lt;br&gt;BahanBakuBtn()&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
           <mxGeometry x="50" y="117" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="byyXQy2XBTRNWG9-Hc-T-30" value="return data Request produk" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
+        <mxCell id="byyXQy2XBTRNWG9-Hc-T-30" value="return data Request BahanBaku" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
           <mxGeometry x="-0.0038" relative="1" as="geometry">
             <mxPoint x="810" y="180" as="sourcePoint" />
             <mxPoint x="660" y="180" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="byyXQy2XBTRNWG9-Hc-T-31" value="return data Request produk" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
+        <mxCell id="byyXQy2XBTRNWG9-Hc-T-31" value="return data Request BahanBaku" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
           <mxGeometry x="-0.0019" relative="1" as="geometry">
             <mxPoint x="650" y="190" as="sourcePoint" />
             <mxPoint x="160" y="190" as="targetPoint" />
@@ -7230,7 +7230,7 @@
         <mxCell id="byyXQy2XBTRNWG9-Hc-T-33" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
           <mxGeometry x="150" y="227" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="byyXQy2XBTRNWG9-Hc-T-34" value="TampilkanDataRequest&lt;br&gt;Produk()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="byyXQy2XBTRNWG9-Hc-T-1" target="byyXQy2XBTRNWG9-Hc-T-33">
+        <mxCell id="byyXQy2XBTRNWG9-Hc-T-34" value="TampilkanDataRequest&lt;br&gt;BahanBaku()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="byyXQy2XBTRNWG9-Hc-T-1" target="byyXQy2XBTRNWG9-Hc-T-33">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="155" y="207" as="sourcePoint" />
             <Array as="points">
@@ -7238,14 +7238,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="byyXQy2XBTRNWG9-Hc-T-35" value="Menampilkan data &lt;br&gt;Request produk" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
+        <mxCell id="byyXQy2XBTRNWG9-Hc-T-35" value="Menampilkan data &lt;br&gt;Request BahanBaku" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
           <mxGeometry x="-0.0751" relative="1" as="geometry">
             <mxPoint x="140" y="332" as="sourcePoint" />
             <mxPoint x="9.928571428571331" y="332.1428571428571" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="byyXQy2XBTRNWG9-Hc-T-36" value="buatRequest&lt;br&gt;ProdukBtn()" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=1;" edge="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
+        <mxCell id="byyXQy2XBTRNWG9-Hc-T-36" value="buatRequest&lt;br&gt;BahanBakuBtn()" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=1;" edge="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="20" y="390" as="sourcePoint" />
             <mxPoint x="140" y="390" as="targetPoint" />
@@ -7266,7 +7266,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="byyXQy2XBTRNWG9-Hc-T-39" value="ExecuteAdd&lt;br&gt;NewRequest&lt;br&gt;Produk(Staff, Produk,qty)" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=1;" edge="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
+        <mxCell id="byyXQy2XBTRNWG9-Hc-T-39" value="ExecuteAdd&lt;br&gt;NewRequest&lt;br&gt;BahanBaku(Staff, Produk,qty)" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=1;" edge="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
           <mxGeometry x="-0.0031" relative="1" as="geometry">
             <mxPoint x="662.9966666666668" y="425.58666666666676" as="sourcePoint" />
             <mxPoint x="809.33" y="426" as="targetPoint" />
@@ -7345,7 +7345,7 @@
         <mxCell id="byyXQy2XBTRNWG9-Hc-T-54" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
           <mxGeometry x="811" y="610" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="byyXQy2XBTRNWG9-Hc-T-55" value="UpdateRequest&lt;br&gt;ProdukBtn()" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=1;" edge="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
+        <mxCell id="byyXQy2XBTRNWG9-Hc-T-55" value="UpdateRequest&lt;br&gt;BahanBakuBtn()" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=1;" edge="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
           <mxGeometry x="0.0047" relative="1" as="geometry">
             <mxPoint x="21" y="597" as="sourcePoint" />
             <mxPoint x="141" y="597" as="targetPoint" />
@@ -7366,7 +7366,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="byyXQy2XBTRNWG9-Hc-T-58" value="ExecuteUpdate&lt;br&gt;Request&lt;br&gt;Produk(Staff,Produk,qty)" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=1;" edge="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
+        <mxCell id="byyXQy2XBTRNWG9-Hc-T-58" value="ExecuteUpdate&lt;br&gt;Request&lt;br&gt;BahanBaku(Staff,Produk,qty)" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=1;" edge="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
           <mxGeometry x="-0.0005" relative="1" as="geometry">
             <mxPoint x="663.9966666666668" y="632.5866666666668" as="sourcePoint" />
             <mxPoint x="810.33" y="633" as="targetPoint" />
@@ -7440,8 +7440,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="byyXQy2XBTRNWG9-Hc-T-71" value="deleteRequest(id_request_produk)" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=1;" edge="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
-          <mxGeometry x="-0.0019" relative="1" as="geometry">
+        <mxCell id="byyXQy2XBTRNWG9-Hc-T-71" value="deleteRequest(id_request_Bahan_Baku)" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=1;" edge="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
+          <mxGeometry x="-0.0026" relative="1" as="geometry">
             <mxPoint x="157.5" y="890.210303030303" as="sourcePoint" />
             <mxPoint x="652" y="890.1365217391304" as="targetPoint" />
             <mxPoint as="offset" />
@@ -7470,10 +7470,10 @@
             <mxPoint x="799.5" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="byyXQy2XBTRNWG9-Hc-T-76" value="ExecuteSelectAll RequestProduk()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
+        <mxCell id="byyXQy2XBTRNWG9-Hc-T-76" value="ExecuteSelectAll RequestBahanBaku()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
           <mxGeometry x="703" y="130" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="byyXQy2XBTRNWG9-Hc-T-77" value="Execute&lt;br&gt;DeleteRequest&lt;br&gt;(id_request_produk)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
+        <mxCell id="byyXQy2XBTRNWG9-Hc-T-77" value="Execute&lt;br&gt;DeleteRequest&lt;br&gt;(id_request_Bahan_Baku)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
           <mxGeometry x="703" y="860" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="byyXQy2XBTRNWG9-Hc-T-78" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="byyXQy2XBTRNWG9-Hc-T-1">
@@ -7543,7 +7543,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gdmq0vjFSlyAFGxobZxE" name="Konfirmasi request produk">
-    <mxGraphModel dx="2232" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1513" dy="354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7610,7 +7610,7 @@
         <mxCell id="XHIRgjNPofQPsCs4knit-21" value="Halaman&lt;br&gt; Mengubah Request" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="10" width="80" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="XHIRgjNPofQPsCs4knit-22" value="Database&lt;br&gt;Produk" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+        <mxCell id="XHIRgjNPofQPsCs4knit-22" value="Database" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
           <mxGeometry x="774" y="9" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XHIRgjNPofQPsCs4knit-23" value="Controller &lt;br&gt;Request Produk" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
