@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T02:09:28.014Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="_iG8NlzJD1YbW08K6JIQ" version="21.5.2" type="github" pages="26">
+<mxfile host="app.diagrams.net" modified="2023-07-04T02:15:30.756Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="1nHEjkgJJ8OpINsc1ZvF" version="21.5.2" type="github" pages="26">
   <diagram id="fW59UWhJ_KLJzVEVr65X" name="Fitur Menambah informasi stok barang">
-    <mxGraphModel dx="3374" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3493" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -309,33 +309,6 @@
             <mxPoint x="1010" y="734.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C0zr5lX6N-NxUwwGUgHZ-29" value="" style="group" parent="1" connectable="0" vertex="1">
-          <mxGeometry x="-75" y="195" width="130" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="C0zr5lX6N-NxUwwGUgHZ-3" value="halaman stok barang" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="C0zr5lX6N-NxUwwGUgHZ-29" vertex="1">
-          <mxGeometry x="-10" y="5" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="C0zr5lX6N-NxUwwGUgHZ-30" value="" style="group" parent="1" connectable="0" vertex="1">
-          <mxGeometry x="-180" y="310" width="135" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="C0zr5lX6N-NxUwwGUgHZ-5" value="tambah stok barang()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="C0zr5lX6N-NxUwwGUgHZ-30" vertex="1">
-          <mxGeometry x="-5" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="C0zr5lX6N-NxUwwGUgHZ-2" value="" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=open;startFill=0;dashed=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-170" y="230" as="sourcePoint" />
-            <mxPoint x="125" y="230" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-100" y="230" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C0zr5lX6N-NxUwwGUgHZ-4" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-260" y="340" as="sourcePoint" />
-            <mxPoint x="35" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="HAHY-88LGXUo1ZmjZV5Z-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.125;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="172.5" as="sourcePoint" />
@@ -344,24 +317,6 @@
         </mxCell>
         <mxCell id="HAHY-88LGXUo1ZmjZV5Z-11" value="bukaStokBarang()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" parent="1" vertex="1">
           <mxGeometry x="222.5" y="130" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="C0zr5lX6N-NxUwwGUgHZ-7" value="" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=open;startFill=0;dashed=1;exitX=1;exitY=0.289;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-800" y="495.0999999999999" as="sourcePoint" />
-            <mxPoint x="-225" y="495.0999999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C0zr5lX6N-NxUwwGUgHZ-9" value="Menampilkan&amp;nbsp;&lt;br&gt;halaman&lt;br&gt;stok barang" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-455" y="440" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="C0zr5lX6N-NxUwwGUgHZ-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.356;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-850" y="590.3999999999996" as="sourcePoint" />
-            <mxPoint x="-275" y="590.3999999999996" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C0zr5lX6N-NxUwwGUgHZ-11" value="Isi data stook barang" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-602.5" y="560" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4gPt0TvhD6Gdm7wsOKZE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -533,7 +488,7 @@
         <mxCell id="94Tn0FD8faaWMeGUc1yy-102" value="[else]" style="line;strokeWidth=1;dashed=1;labelPosition=center;verticalLabelPosition=bottom;align=left;verticalAlign=top;spacingLeft=20;spacingTop=15;html=1;whiteSpace=wrap;" parent="94Tn0FD8faaWMeGUc1yy-103" vertex="1">
           <mxGeometry y="80" width="1950" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="94Tn0FD8faaWMeGUc1yy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" edge="1">
+        <mxCell id="94Tn0FD8faaWMeGUc1yy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" edge="1" source="94Tn0FD8faaWMeGUc1yy-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1110" y="1560" as="targetPoint" />
             <mxPoint x="1110.0588235294117" y="340" as="sourcePoint" />
@@ -549,7 +504,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Fitur bahan baku" id="2Rb_888ZIVJ9dDo7Bmrq">
-    <mxGraphModel dx="3374" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4568" dy="1548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="tPk2u83p79pd4UCM5iH8-0" />
         <mxCell id="tPk2u83p79pd4UCM5iH8-1" parent="tPk2u83p79pd4UCM5iH8-0" />
@@ -865,34 +820,7 @@
             <mxPoint x="1010" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tPk2u83p79pd4UCM5iH8-77" value="" style="group" parent="tPk2u83p79pd4UCM5iH8-1" connectable="0" vertex="1">
-          <mxGeometry x="-75" y="195" width="130" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="tPk2u83p79pd4UCM5iH8-78" value="halaman stok barang" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="tPk2u83p79pd4UCM5iH8-77" vertex="1">
-          <mxGeometry x="-10" y="5" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tPk2u83p79pd4UCM5iH8-79" value="" style="group" parent="tPk2u83p79pd4UCM5iH8-1" connectable="0" vertex="1">
-          <mxGeometry x="-180" y="310" width="135" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tPk2u83p79pd4UCM5iH8-80" value="tambah stok barang()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="tPk2u83p79pd4UCM5iH8-79" vertex="1">
-          <mxGeometry x="-5" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tPk2u83p79pd4UCM5iH8-81" value="" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=open;startFill=0;dashed=1;" parent="tPk2u83p79pd4UCM5iH8-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-170" y="230" as="sourcePoint" />
-            <mxPoint x="125" y="230" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-100" y="230" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tPk2u83p79pd4UCM5iH8-82" value="" style="endArrow=classic;html=1;rounded=0;" parent="tPk2u83p79pd4UCM5iH8-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-260" y="340" as="sourcePoint" />
-            <mxPoint x="35" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tPk2u83p79pd4UCM5iH8-83" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.125;exitDx=0;exitDy=0;exitPerimeter=0;" parent="tPk2u83p79pd4UCM5iH8-1" edge="1">
+        <mxCell id="tPk2u83p79pd4UCM5iH8-83" value="" style="endArrow=classic;html=1;rounded=0;" parent="tPk2u83p79pd4UCM5iH8-1" edge="1" source="cFzvCYoBaYbATRVj7W6C-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="172.5" as="sourcePoint" />
             <mxPoint x="445" y="172.5" as="targetPoint" />
@@ -900,24 +828,6 @@
         </mxCell>
         <mxCell id="tPk2u83p79pd4UCM5iH8-84" value="bukaStokBahanBaku()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" parent="tPk2u83p79pd4UCM5iH8-1" vertex="1">
           <mxGeometry x="212.5" y="130" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tPk2u83p79pd4UCM5iH8-85" value="" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=open;startFill=0;dashed=1;exitX=1;exitY=0.289;exitDx=0;exitDy=0;exitPerimeter=0;" parent="tPk2u83p79pd4UCM5iH8-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-800" y="495.0999999999999" as="sourcePoint" />
-            <mxPoint x="-225" y="495.0999999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tPk2u83p79pd4UCM5iH8-86" value="Menampilkan&amp;nbsp;&lt;br&gt;halaman&lt;br&gt;stok barang" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="tPk2u83p79pd4UCM5iH8-1" vertex="1">
-          <mxGeometry x="-455" y="440" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tPk2u83p79pd4UCM5iH8-87" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.356;exitDx=0;exitDy=0;exitPerimeter=0;" parent="tPk2u83p79pd4UCM5iH8-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-850" y="590.3999999999996" as="sourcePoint" />
-            <mxPoint x="-275" y="590.3999999999996" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tPk2u83p79pd4UCM5iH8-88" value="Isi data stook barang" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="tPk2u83p79pd4UCM5iH8-1" vertex="1">
-          <mxGeometry x="-602.5" y="560" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tPk2u83p79pd4UCM5iH8-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="tPk2u83p79pd4UCM5iH8-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1092,11 +1002,20 @@
             <mxPoint x="1110.0588235294117" y="340" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cFzvCYoBaYbATRVj7W6C-3" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=65;" vertex="1" parent="tPk2u83p79pd4UCM5iH8-1">
+          <mxGeometry y="30" width="30" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="cFzvCYoBaYbATRVj7W6C-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="cFzvCYoBaYbATRVj7W6C-3">
+          <mxGeometry x="10" y="120" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cFzvCYoBaYbATRVj7W6C-4" value="Staff Produksi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tPk2u83p79pd4UCM5iH8-1">
+          <mxGeometry x="-70" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Fitur Data Supplier" id="USJ06wq44fUYJyLv28ZJ">
-    <mxGraphModel dx="3374" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3387" dy="911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="z8e1-KbxVOt2_NUcZkHV-0" />
         <mxCell id="z8e1-KbxVOt2_NUcZkHV-1" parent="z8e1-KbxVOt2_NUcZkHV-0" />
@@ -1415,33 +1334,6 @@
         <mxCell id="z8e1-KbxVOt2_NUcZkHV-106" value="return data supplier" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" parent="z8e1-KbxVOt2_NUcZkHV-2" vertex="1">
           <mxGeometry x="400" y="265.5" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z8e1-KbxVOt2_NUcZkHV-80" value="" style="group" parent="z8e1-KbxVOt2_NUcZkHV-1" connectable="0" vertex="1">
-          <mxGeometry x="-75" y="195" width="130" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="z8e1-KbxVOt2_NUcZkHV-81" value="halaman stok barang" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="z8e1-KbxVOt2_NUcZkHV-80" vertex="1">
-          <mxGeometry x="-10" y="5" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="z8e1-KbxVOt2_NUcZkHV-82" value="" style="group" parent="z8e1-KbxVOt2_NUcZkHV-1" connectable="0" vertex="1">
-          <mxGeometry x="-180" y="310" width="135" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z8e1-KbxVOt2_NUcZkHV-83" value="tambah stok barang()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="z8e1-KbxVOt2_NUcZkHV-82" vertex="1">
-          <mxGeometry x="-5" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="z8e1-KbxVOt2_NUcZkHV-84" value="" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=open;startFill=0;dashed=1;" parent="z8e1-KbxVOt2_NUcZkHV-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-170" y="230" as="sourcePoint" />
-            <mxPoint x="125" y="230" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-100" y="230" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z8e1-KbxVOt2_NUcZkHV-85" value="" style="endArrow=classic;html=1;rounded=0;" parent="z8e1-KbxVOt2_NUcZkHV-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-260" y="340" as="sourcePoint" />
-            <mxPoint x="35" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="z8e1-KbxVOt2_NUcZkHV-86" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.125;exitDx=0;exitDy=0;exitPerimeter=0;" parent="z8e1-KbxVOt2_NUcZkHV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="172.5" as="sourcePoint" />
@@ -1450,24 +1342,6 @@
         </mxCell>
         <mxCell id="z8e1-KbxVOt2_NUcZkHV-87" value="bukaDataSupplier()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" parent="z8e1-KbxVOt2_NUcZkHV-1" vertex="1">
           <mxGeometry x="217.5" y="130" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="z8e1-KbxVOt2_NUcZkHV-88" value="" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=open;startFill=0;dashed=1;exitX=1;exitY=0.289;exitDx=0;exitDy=0;exitPerimeter=0;" parent="z8e1-KbxVOt2_NUcZkHV-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-800" y="495.0999999999999" as="sourcePoint" />
-            <mxPoint x="-225" y="495.0999999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z8e1-KbxVOt2_NUcZkHV-89" value="Menampilkan&amp;nbsp;&lt;br&gt;halaman&lt;br&gt;stok barang" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="z8e1-KbxVOt2_NUcZkHV-1" vertex="1">
-          <mxGeometry x="-455" y="440" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="z8e1-KbxVOt2_NUcZkHV-90" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.356;exitDx=0;exitDy=0;exitPerimeter=0;" parent="z8e1-KbxVOt2_NUcZkHV-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-850" y="590.3999999999996" as="sourcePoint" />
-            <mxPoint x="-275" y="590.3999999999996" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z8e1-KbxVOt2_NUcZkHV-91" value="Isi data stook barang" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="z8e1-KbxVOt2_NUcZkHV-1" vertex="1">
-          <mxGeometry x="-602.5" y="560" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z8e1-KbxVOt2_NUcZkHV-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="z8e1-KbxVOt2_NUcZkHV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
