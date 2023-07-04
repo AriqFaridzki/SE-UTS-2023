@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T03:42:33.823Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="CIXVQtmpqxXTe4qymJ58" version="21.5.2" type="github" pages="31">
+<mxfile host="app.diagrams.net" modified="2023-07-04T03:49:07.641Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="gCXWtOurt0jnl056ObFb" version="21.5.2" type="github" pages="31">
   <diagram id="fW59UWhJ_KLJzVEVr65X" name="Fitur Menambah informasi stok barang">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7972,7 +7972,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of Konfirmasi request produk" id="mgtXrT5ytLi3vNzQx0KO">
+  <diagram name="Konfirmasi request Bahan Baku" id="mgtXrT5ytLi3vNzQx0KO">
     <mxGraphModel dx="2508" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Pbzx6KXWSLaMXOqdjI5f-0" />
