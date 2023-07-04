@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T03:07:02.406Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="eeyccy46P7JIWysd70LP" version="21.5.2" type="github" pages="28">
+<mxfile host="app.diagrams.net" modified="2023-07-04T03:14:29.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="EDderBovwew8OsR4-HPw" version="21.5.2" type="github" pages="28">
   <diagram id="fW59UWhJ_KLJzVEVr65X" name="Fitur Menambah informasi stok barang">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6683,7 +6683,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dA31T7T0o4F5JXISnoKK" name="Request Produk">
-    <mxGraphModel dx="1513" dy="354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2429" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6756,8 +6756,8 @@
         <mxCell id="sQMdzlTA2YYlkbX8EsW_-23" value="Controller &lt;br&gt;Request Produk" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" parent="1" vertex="1">
           <mxGeometry x="616" y="11" width="80" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="sQMdzlTA2YYlkbX8EsW_-24" value="getAllNota()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="360" y="120" width="60" height="30" as="geometry" />
+        <mxCell id="sQMdzlTA2YYlkbX8EsW_-24" value="getRequestProduk()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="380" y="117" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sQMdzlTA2YYlkbX8EsW_-25" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -6777,17 +6777,17 @@
             <mxPoint x="155" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQMdzlTA2YYlkbX8EsW_-28" value="LihatNotaBtn()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="50" y="120" width="60" height="30" as="geometry" />
+        <mxCell id="sQMdzlTA2YYlkbX8EsW_-28" value="&lt;div&gt;LihatRequest&lt;br&gt;ProdukBtn()&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="117" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sQMdzlTA2YYlkbX8EsW_-29" value="return data nota" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
-          <mxGeometry x="-0.0019" relative="1" as="geometry">
+        <mxCell id="sQMdzlTA2YYlkbX8EsW_-29" value="return data Request produk" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-0.0038" relative="1" as="geometry">
             <mxPoint x="810" y="180" as="sourcePoint" />
             <mxPoint x="660" y="180" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQMdzlTA2YYlkbX8EsW_-30" value="return data nota" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="sQMdzlTA2YYlkbX8EsW_-30" value="return data Request produk" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-0.0019" relative="1" as="geometry">
             <mxPoint x="650" y="190" as="sourcePoint" />
             <mxPoint x="160" y="190" as="targetPoint" />
@@ -6800,7 +6800,7 @@
         <mxCell id="sQMdzlTA2YYlkbX8EsW_-32" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="150" y="227" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sQMdzlTA2YYlkbX8EsW_-33" value="TampilkanDataNota()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="1" target="sQMdzlTA2YYlkbX8EsW_-32" edge="1">
+        <mxCell id="sQMdzlTA2YYlkbX8EsW_-33" value="TampilkanDataRequest&lt;br&gt;Produk()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="1" target="sQMdzlTA2YYlkbX8EsW_-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="155" y="207" as="sourcePoint" />
             <Array as="points">
@@ -6808,36 +6808,36 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQMdzlTA2YYlkbX8EsW_-34" value="Menampilkan data nota" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" target="sQMdzlTA2YYlkbX8EsW_-1" edge="1">
+        <mxCell id="sQMdzlTA2YYlkbX8EsW_-34" value="Menampilkan data &lt;br&gt;Request produk" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-0.0751" relative="1" as="geometry">
-            <mxPoint x="140" y="320" as="sourcePoint" />
-            <mxPoint x="40" y="320" as="targetPoint" />
+            <mxPoint x="140" y="332" as="sourcePoint" />
+            <mxPoint x="9.928571428571331" y="332.1428571428571" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQMdzlTA2YYlkbX8EsW_-35" value="tambahNotaBtn()" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=1;" parent="1" edge="1">
+        <mxCell id="sQMdzlTA2YYlkbX8EsW_-35" value="buatRequest&lt;br&gt;ProdukBtn()" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="20" y="390" as="sourcePoint" />
             <mxPoint x="140" y="390" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQMdzlTA2YYlkbX8EsW_-36" value="tambahNota()" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=1;" parent="1" edge="1">
+        <mxCell id="sQMdzlTA2YYlkbX8EsW_-36" value="buatRequest(Staff, Produk)" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=1;" parent="1" edge="1">
           <mxGeometry x="-0.0019" relative="1" as="geometry">
             <mxPoint x="160" y="404" as="sourcePoint" />
             <mxPoint x="310" y="404" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQMdzlTA2YYlkbX8EsW_-37" value="tambahNota(Nota)" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=1;" parent="1" edge="1">
+        <mxCell id="sQMdzlTA2YYlkbX8EsW_-37" value="buatRequest(Staff, Produk,qty)" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=1;" parent="1" edge="1">
           <mxGeometry x="-0.0019" relative="1" as="geometry">
             <mxPoint x="340" y="415.58" as="sourcePoint" />
             <mxPoint x="640" y="416" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQMdzlTA2YYlkbX8EsW_-38" value="ExecuteAddNewNota(Nota)" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=1;" parent="1" edge="1">
-          <mxGeometry x="-0.0024" relative="1" as="geometry">
+        <mxCell id="sQMdzlTA2YYlkbX8EsW_-38" value="ExecuteAdd&lt;br&gt;NewRequest&lt;br&gt;Produk(Staff, Produk,qty)" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=1;" parent="1" edge="1">
+          <mxGeometry x="-0.0031" relative="1" as="geometry">
             <mxPoint x="662.9966666666668" y="425.58666666666676" as="sourcePoint" />
             <mxPoint x="809.33" y="426" as="targetPoint" />
             <mxPoint as="offset" />
@@ -6846,21 +6846,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQMdzlTA2YYlkbX8EsW_-39" value="return &quot;Sukses Ditambahkan&quot;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="sQMdzlTA2YYlkbX8EsW_-39" value="return &quot;Sukses Membuat&quot;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-0.0034" relative="1" as="geometry">
             <mxPoint x="810" y="458.58" as="sourcePoint" />
             <mxPoint x="660" y="458.58" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQMdzlTA2YYlkbX8EsW_-40" value="return &quot;Sukses Ditambahkan&quot;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
-          <mxGeometry x="-0.0034" relative="1" as="geometry">
+        <mxCell id="sQMdzlTA2YYlkbX8EsW_-40" value="return &quot;Sukses Membuat&quot; " style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-0.0045" relative="1" as="geometry">
             <mxPoint x="650" y="466" as="sourcePoint" />
             <mxPoint x="330" y="466" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQMdzlTA2YYlkbX8EsW_-41" value="menampilkan pesan &quot;Sukses Ditambahkan&quot;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="sQMdzlTA2YYlkbX8EsW_-41" value="menampilkan pesan &quot;Sukses Membuat&quot;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-0.0034" relative="1" as="geometry">
             <mxPoint x="310" y="473.17" as="sourcePoint" />
             <mxPoint x="20" y="473" as="targetPoint" />
@@ -6876,21 +6876,21 @@
         <mxCell id="sQMdzlTA2YYlkbX8EsW_-44" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="810" y="510" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sQMdzlTA2YYlkbX8EsW_-45" value="return &quot;gagal Ditambahkan&quot;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
-          <mxGeometry x="-0.0034" relative="1" as="geometry">
+        <mxCell id="sQMdzlTA2YYlkbX8EsW_-45" value="return &quot;gagal Membuat&quot;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-0.0033" relative="1" as="geometry">
             <mxPoint x="810" y="520.25" as="sourcePoint" />
             <mxPoint x="660" y="520.25" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQMdzlTA2YYlkbX8EsW_-46" value="return &quot;gagal Ditambahkan&quot;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="sQMdzlTA2YYlkbX8EsW_-46" value="return &quot;gagal Membuat &quot;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-0.0011" relative="1" as="geometry">
             <mxPoint x="650" y="529.67" as="sourcePoint" />
             <mxPoint x="330" y="529.67" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQMdzlTA2YYlkbX8EsW_-47" value="menampilkan pesan &quot;gagal Ditambahkan&quot;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="sQMdzlTA2YYlkbX8EsW_-47" value="menampilkan pesan &quot;gagal Membuat&quot;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-0.0034" relative="1" as="geometry">
             <mxPoint x="310" y="534.84" as="sourcePoint" />
             <mxPoint x="20" y="534.67" as="targetPoint" />
@@ -6915,28 +6915,28 @@
         <mxCell id="sQMdzlTA2YYlkbX8EsW_-53" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="811" y="610" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sQMdzlTA2YYlkbX8EsW_-54" value="updateNotaBtn()" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="sQMdzlTA2YYlkbX8EsW_-54" value="UpdateRequest&lt;br&gt;ProdukBtn()" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=1;" parent="1" edge="1">
+          <mxGeometry x="0.0047" relative="1" as="geometry">
             <mxPoint x="21" y="597" as="sourcePoint" />
             <mxPoint x="141" y="597" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQMdzlTA2YYlkbX8EsW_-55" value="updateNota(Nota)" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=1;" parent="1" target="sQMdzlTA2YYlkbX8EsW_-8" edge="1">
+        <mxCell id="sQMdzlTA2YYlkbX8EsW_-55" value="updateRequest(Staff,Produk,qty)" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=1;" parent="1" target="sQMdzlTA2YYlkbX8EsW_-8" edge="1">
           <mxGeometry x="-0.0019" relative="1" as="geometry">
             <mxPoint x="161" y="611" as="sourcePoint" />
             <mxPoint x="311" y="611" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQMdzlTA2YYlkbX8EsW_-56" value="UpdateNota(Nota)" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=1;" parent="1" edge="1">
+        <mxCell id="sQMdzlTA2YYlkbX8EsW_-56" value="update&lt;br&gt;Request(Staff,Produk,qty)" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=1;" parent="1" edge="1">
           <mxGeometry x="-0.0019" relative="1" as="geometry">
             <mxPoint x="500" y="622" as="sourcePoint" />
             <mxPoint x="641" y="622" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQMdzlTA2YYlkbX8EsW_-57" value="ExecuteUpdateNota(Nota)" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=1;" parent="1" edge="1">
+        <mxCell id="sQMdzlTA2YYlkbX8EsW_-57" value="ExecuteUpdate&lt;br&gt;Request&lt;br&gt;Produk(Staff,Produk,qty)" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=1;" parent="1" edge="1">
           <mxGeometry x="-0.0005" relative="1" as="geometry">
             <mxPoint x="663.9966666666668" y="632.5866666666668" as="sourcePoint" />
             <mxPoint x="810.33" y="633" as="targetPoint" />
@@ -7003,14 +7003,14 @@
         <mxCell id="sQMdzlTA2YYlkbX8EsW_-68" value="else" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-148" y="700" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sQMdzlTA2YYlkbX8EsW_-69" value="deleteNotaBtn()" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=1;" parent="1" edge="1">
+        <mxCell id="sQMdzlTA2YYlkbX8EsW_-69" value="deleteRequestBtn()" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="11" y="820" as="sourcePoint" />
             <mxPoint x="131" y="820" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQMdzlTA2YYlkbX8EsW_-70" value="deleteNota(id_nota)" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=1;" parent="1" edge="1">
+        <mxCell id="sQMdzlTA2YYlkbX8EsW_-70" value="deleteRequest(id_request_produk)" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=1;" parent="1" edge="1">
           <mxGeometry x="-0.0019" relative="1" as="geometry">
             <mxPoint x="157.5" y="890.210303030303" as="sourcePoint" />
             <mxPoint x="652" y="890.1365217391304" as="targetPoint" />
@@ -7027,7 +7027,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQMdzlTA2YYlkbX8EsW_-73" value="KonfirmasiDeleteNotaBtn()" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=1;" parent="1" edge="1">
+        <mxCell id="sQMdzlTA2YYlkbX8EsW_-73" value="KonfirmasiDeleteRequestBtn()" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="20" y="880.14" as="sourcePoint" />
             <mxPoint x="140" y="880.14" as="targetPoint" />
@@ -7040,11 +7040,11 @@
             <mxPoint x="799.5" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQMdzlTA2YYlkbX8EsW_-75" value="ExecuteSelectAllNota()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="sQMdzlTA2YYlkbX8EsW_-75" value="ExecuteSelectAll RequestProduk()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="703" y="130" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sQMdzlTA2YYlkbX8EsW_-76" value="ExecuteDeleteNota(id_nota)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="703" y="870" width="60" height="30" as="geometry" />
+        <mxCell id="sQMdzlTA2YYlkbX8EsW_-76" value="Execute&lt;br&gt;DeleteRequest&lt;br&gt;(id_request_produk)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="703" y="860" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sQMdzlTA2YYlkbX8EsW_-77" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="649" y="975.41" width="10" height="44" as="geometry" />
